@@ -7,3 +7,5 @@ Consumer: API /to-read que chama a API /recommended utilizando Hystrix para gere
 * [Bookstore](https://github.com/TuannyRamos/Hystrix/tree/master/bookstore)
 * [Consumer](https://github.com/TuannyRamos/Hystrix/tree/master/consumer)
 
+## Para subir a(s) aplicação(es)
+```./mvnw spring-boot:run```
